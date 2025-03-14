@@ -1,0 +1,6 @@
+Flask
+flask[async]
+flask-cors
+python-dotenv
+asyncpg
+google-genai
